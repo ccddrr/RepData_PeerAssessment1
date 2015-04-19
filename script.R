@@ -8,8 +8,6 @@ Sys.setlocale("LC_ALL", "C")  # set locale to generic
 # Loading and preprocessing the data
 data <- read.csv('activity/activity.csv')
 
-#data <- na.omit(data)
-
 dates <- as.factor(data$date)
 intervals <- as.factor(data$interval)
 
