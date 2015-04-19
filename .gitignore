@@ -1,0 +1,9 @@
+*.html
+/dummy.Rmd
+/PA1_template.html
+/PA1_template.md
+/.RData
+/.Rhistory
+/PA1_template_files
+/.Rproj.user
+/activity
